@@ -14,12 +14,6 @@ The dataset includes company valuations, countries, industries, and dates of ach
 ![Project Screenshot](Unicorn_Dataset Project Analysis.png)  
 
 
-## Repository Structure
-- `/data/`: Raw (`CB-Insights_Global-Unicorn-Club_2025.xlsx`) and cleaned Excel files.
-- `/analysis/`: Excel workbook with cleaned data, pivot tables, and calculations.
-- `/visuals/`: Exported charts (e.g., valuation by industry, year).
-- `README.md`: This file, detailing the project and setup.
-
 ## Key Findings
 - **Valuation**: Total of $4,662.93B, led by SpaceX ($350B) and ByteDance ($300B).
 - **Industries**: Enterprise Tech dominates (429 unicorns, $1,646.03B), followed by Financial Services and Consumer & Retail.
