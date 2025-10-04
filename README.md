@@ -11,7 +11,7 @@ The dataset includes company valuations, countries, industries, and dates of ach
 - **Insights**: Identified 2021 valuation surge ($1,133.35B), AI-driven unicorns in 2024-2025 (e.g., xAI), and ~29% value concentration in top 10 firms.
 
 ## Project Screenshot
-![Project Screenshot](unicorn_analysis.png.)  
+![Project Screenshot](unicorn_analysis.png) 
 
 
 ## Key Findings
